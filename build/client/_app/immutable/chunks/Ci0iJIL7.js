@@ -1,0 +1,1 @@
+import{w as r,aj as i}from"./CC1UzcQ5.js";function f(t,s){return t==null?null:String(t)}function p(t,s,u,l){var n=t[r];if(i||n!==s){var e=f(s);(!i||e!==t.getAttribute("style"))&&(e==null?t.removeAttribute("style"):t.style.cssText=e),t[r]=s}return l}export{p as s};
